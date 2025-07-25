@@ -1,81 +1,105 @@
-### Hey there, I'm Hassam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-
 <div align="center">
-  
-<p align="center">Let's connect!</p>
 
-<a href="https://www.linkedin.com/in/imuhammadhassam">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+# 👋 Hey there, I'm **Muhammad Hassam**  
+🚀 *Flutter, AI/ML & Networking Enthusiast | Computer Science Student*
 
-<a href="https://instagram.com/he_is_hassam">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" align="right"/>
 
-<a href="https://medium.com/@imuhammadhassam">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+🎓 5th Semester CS Student at **Air University**  
+💡 Passionate about cross-platform apps, AI/ML models & networking fundamentals  
+📍 *Based in Pakistan*
 
-<a href="https://stackoverflow.com/users/235145/hassam">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/imuhammadhassam)
+[![Email](https://img.shields.io/badge/Gmail-Contact-D14836?logo=gmail&style=for-the-badge)](mailto:hassammalik926@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-he__is__hassam-E4405F?logo=instagram&style=for-the-badge)](https://instagram.com/he_is_hassam)
 
 </div>
 
 ---
 
-### A Developer, Learner & Explorer 🚀
+## 🔧 Tech Stack & Skills
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" height="320" />
+### 📱 Mobile App Development – Flutter
 
-#### 👨‍💻 About Me
-
-- 💻 Passionate about Flutter, C#, Python & Web Development  
-- 📱 Working on real-time Flutter apps  
-- ✍ Writing helpful tech blogs on [Medium](https://medium.com/@imuhammadhassam)  
-- 🚀 Exploring AI, Firebase, and Backend Integrations  
-- 🎮 Loves to code games, build UIs & do problem-solving  
-- 💬 Ask me about Flutter, Firebase, Python, or C#  
-- 🇵🇰 Proud Pakistani Developer
-
----
-
-### ✍ Latest Blog Posts
-
-<!-- Replace with manually updated or dynamic RSS action -->
-- [Coming Soon on My Medium Blog](https://medium.com/@imuhammadhassam)
+![Flutter](https://img.shields.io/badge/Flutter-Dart-02569B?logo=flutter&style=for-the-badge)  
+> ✨ **Cross-platform development** with single codebase for Android & iOS  
+> 🧱 **State Management**: Provider, Riverpod, Bloc  
+> 🎨 **UI Design**: Material Design, Cupertino Widgets, Custom Animations  
+> 🔌 **Plugins Integration**: Firebase, Google Maps, Camera, Geolocation  
+> 💾 **Local Storage**: Hive, SharedPreferences, SQLite  
+> 📦 **API Handling**: RESTful APIs with Dio & http package  
+> 📱 **Responsive UI** for mobile, tablet, and foldable devices  
+> 🧪 **Testing**: Widget Testing, Unit Testing with `flutter_test`
 
 ---
 
-### 🛠 Tools & Technologies
+### 🌐 Web Development
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&style=for-the-badge)  
+> 💻 Built responsive frontend interfaces & handled backend logic
+
+---
+
+### 🤖 Programming, AI & Data Science
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&style=for-the-badge)
+![C](https://img.shields.io/badge/C-Programming-A8B9CC?logo=c&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&style=for-the-badge)  
+> 🤖 Developed ML models, classification systems & data analysis pipelines
+
+---
+
+### 🌐 Networking
+
+![Cisco](https://img.shields.io/badge/Cisco-PacketTracer-1BA0D7?logo=cisco&style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-TCP/IP-1679A7?logo=wireshark&style=for-the-badge)  
+> 🌐 Worked on routing, switching, ACLs, subnetting, DHCP, and DNS configurations
+
+---
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge)  
+> 🧩 Designed schemas, optimized queries & integrated with backend
+
+---
+
+### 🧰 Tools & Other Skills
+
+- 📝 **Technical Writing**: SRS, BRD, Project Docs  
+- 🛠️ **Project Tools**: Git, GitHub, VS Code, Postman  
+- 🚀 **Methodologies**: Agile, Scrum  
+- 🎨 **UI/UX Tools**: Figma, Adobe XD
+
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-<img src="https://img.shields.io/badge/WPF-68217A?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=white" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imuhammadhassam&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imuhammadhassam&layout=compact&theme=radical)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 🤝 Let's Collaborate
 
-<div align="center">
+📬 I enjoy working on innovative apps, AI/ML projects, or network simulations.
 
-[![Hassam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imuhammadhassam&theme=gotham)](https://github.com/imuhammadhassam/github-readme-stats)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=imuhammadhassam&theme=gotham)](https://git.io/streak-stats)  
-<img src="https://komarev.com/ghpvc/?username=imuhammadhassam&label=Profile%20Views&style=for-the-badge" alt="imuhammadhassam" />
-
-</div>
+- 📧 Reach me at: **[hassammalik926@gmail.com](mailto:hassammalik926@gmail.com)**
+- 🔗 Let’s connect on **[LinkedIn](https://www.linkedin.com/in/imuhammadhassam)**
+- 📸 Follow me on **[Instagram](https://instagram.com/he_is_hassam)**
 
 ---
 
-Open Source Contributor from **Pakistan** 🇵🇰💚  
-`Fueled by Code and Caffeine ☕`
+> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
